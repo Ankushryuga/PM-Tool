@@ -11,7 +11,13 @@
 ## Team member Spent Time on project,
 ## 
 
-
+## Controllers:
+1. Admin
+2. Supervisor
+3. Developers
+4. Reporter
+5. Tester
+   
 
 ### P: collection of issuess..
 ### Issue Types:
