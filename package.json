@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "ip": "^2.0.1",
+    "nodemon": "^3.1.4"
+  },
+  "name": "pm-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon bin/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
